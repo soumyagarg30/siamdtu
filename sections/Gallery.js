@@ -1,4 +1,3 @@
-import { showcase } from "@/assets/data/dummydata"
 import React from "react"
 import { Gallery } from "next-gallery"
 

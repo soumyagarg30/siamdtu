@@ -1,11 +1,8 @@
 'use client'
-// import { blogdata } from "@/assets/data/dummydata";
+
 import { Title, TitleSm } from "@/components/common/Title";
-import Head from "next/head";
 import { useRouter } from "next/router";
-import { useEffect} from 'react'
 import React from "react";
-import { BiAlignJustify } from "react-icons/bi";
 
 const SinglePost = () => {
   const router = useRouter();

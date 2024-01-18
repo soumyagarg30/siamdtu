@@ -1,7 +1,5 @@
 import Testimonial from "@/components/Testimonial"
 import { Title, TitleSm } from "@/components/common/Title"
-import { useSpring, animated } from "@react-spring/web"
-
 
 const Alumni = () => {
   return (
