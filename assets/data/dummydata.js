@@ -226,7 +226,7 @@ export const blogdata = [
     cover: "../images/b4.jpg",
     date: "OCTOBER 20, 2023",
     author:"Neeharika Singh",
-    profile:"",
+    profile:"/images/blog2.jpeg",
   },
 ]
 export const seniorteam = [
