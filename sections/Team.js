@@ -16,7 +16,7 @@ const Team = () => {
           </div>
           <div className='grid-4 py'>
             {seniorteam.map((item) => (
-              <Card data={item} key={item.id} caption={item.post} />
+              <Card data={item} key={item.id} caption={item.post}/>
             ))}
           </div>
           <div className='heading-title'>
@@ -24,7 +24,7 @@ const Team = () => {
           </div>
           <div className='grid-4 py'>
             {juniorteam.map((item) => (
-              <Card data={item} key={item.id} caption={item.post} />
+              <Card data={item} key={item.id} caption={item.post}/>
             ))}
           </div>
           

@@ -99,10 +99,10 @@ const SinglePost = () => {
                   
                     <div className='image'>
                       <div className='img'>
-                        <img src="/images/1.jpg" alt='' />
+                        <img src={post.profile} alt='' />
                       </div>
                       <div className='img-text'>
-                        <h3>XYZ</h3>
+                        <h3>{post.author}</h3>
                       </div>
                     </div>
                   </div>

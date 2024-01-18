@@ -5,7 +5,7 @@ import { blogdata } from "@/assets/data/dummydata";
 import React from "react";
 
 const SinglePost = () => {
-    const post = blogdata.find((temp) => temp.id === 1);
+    const post = blogdata.find((temp) => temp.id === 4);
   return (
     <>
       <section className="post-details bg-top prevent-select">
@@ -60,10 +60,10 @@ const SinglePost = () => {
                   
                     <div className='image'>
                       <div className='img'>
-                        <img src="/images/1.jpg" alt='' />
+                        <img src={post.profile} alt='' />
                       </div>
                       <div className='img-text'>
-                        <h3>XYZ</h3>
+                        <h3>{post.author}</h3>
                       </div>
                     </div>
                   </div>
