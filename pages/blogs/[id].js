@@ -1,5 +1,4 @@
 'use client'
-
 import { Title, TitleSm } from "@/components/common/Title";
 import { useRouter } from "next/router";
 import React from "react";
