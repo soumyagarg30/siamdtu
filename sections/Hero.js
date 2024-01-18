@@ -21,7 +21,7 @@ const Hero = () => {
         <div className='heading-title'>
             <Title title='Words from Our Faculty Advisor'/>
             <img src="images/facad.jpg" alt="" width={200} height={200}/>
-            <p style={{fontStyle: 'italic',}}>"As Faculty Advisor, I take pride in the fact that there are so many students from the department that are a part of SIAM. I believe that under the leadership of Dheeresh Chandra, President of SIAM, the society will reach new heights."</p>
+            <p style={{fontStyle: 'italic',}}>"SIAM-DTU has always been one of the leading student organisations among the Tech diaspora of DTU. Devoted to Mathematical research and application along with nurturing the potential of people in technology, it has a unique blend of the right specialisations in the right proportions. As the Faculty Advisor, I take pride in the fact that there are so many students from the department that are a part of SIAM. I believe that under the leadership of its enthusiastic Council, the society will reach new heights in this tenth year of its being."</p>
             <span>~Dr. Nilam</span>
           </div>
           <div className='heading-title'>
