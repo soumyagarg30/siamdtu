@@ -102,7 +102,7 @@ const SinglePost = () => {
                         <img src="/images/1.jpg" alt='' />
                       </div>
                       <div className='img-text'>
-                        <h3>Neeharika Singh</h3>
+                        <h3>XYZ</h3>
                       </div>
                     </div>
                   </div>
