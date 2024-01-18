@@ -56,7 +56,7 @@ export const testimonial = [
     name: `Abhijit Barua`,
     cover: `/alumni/5.jpg`,
     review: "General Secretary 2021-22",
-    company: "/company/deloitte.jpg",
+    company: "/company/deloitte.jpeg",
   },
   {
     id:6,
@@ -84,7 +84,7 @@ export const testimonial = [
     name: `Garima Kumari`,
     cover: `/alumni/9.jpg`,
     review: "Member 2021-22",
-    company: "/company/moody.jpg",
+    company: "/company/moodys.png",
   },
   {
     id:10,
@@ -154,7 +154,7 @@ export const testimonial = [
     name: `Riya Nayak`,
     cover: `/alumni/19.jpg`,
     review: "President 2022-23",
-    company: "/company/microsoft.jpg",
+    company: "/company/microsoft.png",
   },
   {
     id:20,
