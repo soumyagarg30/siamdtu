@@ -12,15 +12,15 @@ const Team = () => {
           <div className='heading-title'>
             <TitleSm title='MEET OUR TEAM' /> <br />
             <br />
-            <Title title='Senior Council 2023-24' className='title-bg' />
+            <Title title='Senior Council 2025-26' className='title-bg' />
           </div>
-          <div className='grid-4 py'>
+          <div className='grid-3 py'>
             {seniorteam.map((item) => (
               <Card data={item} key={item.id} caption={item.post}/>
             ))}
           </div>
           <div className='heading-title'>
-            <Title title='Junior Council 2023-24' className='title-bg' />
+            <Title title='Junior Council 2025-26' className='title-bg' />
           </div>
           <div className='grid-4 py'>
             {juniorteam.map((item) => (
